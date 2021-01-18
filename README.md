@@ -1,8 +1,8 @@
-##Draw pitch contour lines in LaTeX##
+## Draw pitch contour lines in LaTeX
 
 When discussing pitch phenomena in linguistics, it is often helpful to be able to give a visual indication of the pitch pattern.
 
-This file contains TikX (http://sourceforge.net/projects/pgf) code to enable the drawing of pitch levels and contours over text.  It was originally written by Mark Wibrow in response to two questions from me on TeX StackExchange:
+This file contains TikZ (http://sourceforge.net/projects/pgf) code to enable the drawing of pitch levels and contours over text.  It was originally written by Mark Wibrow in response to two questions from me on TeX StackExchange:
 http://tex.stackexchange.com/questions/107941/using-tikz-to-depict-intonation
 http://tex.stackexchange.com/questions/108530/using-tikz-to-depict-pitchlevel
 
